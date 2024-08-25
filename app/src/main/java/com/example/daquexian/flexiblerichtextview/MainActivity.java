@@ -1,7 +1,8 @@
 package com.example.daquexian.flexiblerichtextview;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.daquexian.flexiblerichtextview.Attachment;
 import com.daquexian.flexiblerichtextview.FlexibleRichTextView;
